@@ -6,6 +6,9 @@ body {
 	background: #f5f5f5;
 	padding-top: 46px;
 }
+button {
+	cursor: pointer;
+}
 .header {
 	padding-top: 6px;
 	padding-bottom: 6px;
